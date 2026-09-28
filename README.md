@@ -1,16 +1,47 @@
-## Hi there 👋
+你好，我是whzdy
 
-<!--
-**whzdy/whzdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+用 Python + AI 帮小企业干掉重复劳动。表格自动化 / 数据采集 / 知识库问答 / 接定制开发。
 
-Here are some ideas to get you started:
+## 我能帮你解决什么
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **表格自动化**：每天两小时的合并对账，变成一个双击就行的按钮。Excel / CSV 通吃，自动去重、格式统一、生成汇总表。
+- **批量文件处理**：几千个文件的重命名、格式转换、PDF 合并拆分、图片压缩加水印，写一次以后一直用。
+- **群机器人**：飞书 / 钉钉 / 企业微信，报表自动推送到群、关键词自动回复、异常自动告警。
+- **公开数据采集与监控**：竞品价格、评论、库存变动，每天早上自动发你表格。限并发限频率，不碰需登录、验证码或付费墙后的数据。
+
+## 技术栈
+
+| 方向 | 用到的东西 |
+|---|---|
+| 语言 | Python 3.12 |
+| 数据处理 | pandas、openpyxl、xlrd |
+| 工程质量 | pytest（严格 TDD）、uv、Ruff、GitHub Actions |
+| 正在学 | FastAPI、SQLite、LLM API + RAG |
+
+## 在做的项目
+
+| 项目 | 解决什么麻烦 | 状态 |
+|---|---|---|
+| sheetpilot | 多店铺 / 多部门报表合并清洗，一条命令出汇总表，CLI 可直接放进定时任务 | 开发中  |
+
+
+> 每个项目都配一份 README，里面写清楚它跑了多少数据、花了多少时间——数字都是真实跑出来的，不是估的。
+
+## 怎么找我
+
+- 邮箱：3540008590@qq.com
+- 闲鱼：小宇自动化脚本 小红书：小宇（自动化脚本定制）
+
+先聊需求，确认能做再报价。做不了会直接告诉你，不浪费你时间。
+
+---
+
+<details>
+<summary>我在公开学的东西</summary>
+
+我把接到的每个真实需求都沉淀成脱敏仓库 + 一篇过程记录，包括踩过的坑和最后的效果数字。
+
+学习路线：Python 工程化 → Web 后端与部署 → LLM 应用与 RAG。
+
+如果你正好有个重复劳动想扔掉，欢迎拿它当我的下一个案例。
+</details>
